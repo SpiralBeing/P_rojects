@@ -1,0 +1,3 @@
+Цель: предсказать количество проданных экземпляров каждого товара в каждом магазине.
+Для проверки LSTM_Github.ipynb нужно скачать датасет с сайта: https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data . 
+LSTM_full.csv - файл с предсказанными значениями, который был отправлен на kaggle для подсчета score модели.

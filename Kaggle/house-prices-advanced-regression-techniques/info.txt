@@ -1,0 +1,3 @@
+Цель: предсказать стоимость дома.  
+Для проверки Kaggle_notebook_Github.ipynb нужно скачать датасет с сайта: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data . Разать. Теперь имеем папку "house-prices-advanced-regression-techniques". 
+results.csv - файл с предсказанными значениями, который был отправлен на kaggle.
