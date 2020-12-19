@@ -1,0 +1,2 @@
+Цель: предсказать какие твиты посвящены реальным катастрофам.
+Для проверки Kaggle_notebook_Github.ipynb нужно скачать датасет с сайта: https://www.kaggle.com/c/nlp-getting-started/data. Разархировать. Теперь имеем папку "nlp-getting-started". 
